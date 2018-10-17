@@ -1,27 +1,27 @@
 .text {
-  font-family: "Monoton", cursive;
-  color: rgb(46, 4, 235);
+  font-family: "cambria";
+  color: rgb(14, 150, 184);
 }
 .text2 {
-  font-family: "Stalinist One", cursive;
-  color: rgb(46, 4, 235);
+  font-family: "cambria";
+  color: rgb(14, 150, 184);
 }
 
 button {
-  background-color: aquamarine;
-  border: solid 3px red;
+  background-color: rgb(14, 150, 184);
+  border: solid 3px rgb(0, 102, 255);
   margin: 5px;
-  color: rgb(46, 4, 235);
+  color: rgb(42, 30, 99);
 }
 
 body {
-  background-color: tan;
+  background-color: white;
 }
 
 .text3 {
-  font-family: "Bungee Inline", cursive;
-  color: rgb(46, 4, 235);
-  border: solid 3px red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(14, 150, 184);
+  border: solid 3px rgb(14, 150, 184);
 }
 
 .moveDown {
